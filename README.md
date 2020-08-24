@@ -5,8 +5,8 @@ Trabalho desenvolvido durante a disciplina de BD1
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-Amanda Ferreira de Souza: amandas9764@gmail.com
-Ana Elisa Paim Dias Rezende: anaelisa0935@gmail.com
+Amanda Ferreira de Souza: amandas9764@gmail.com<br>
+Ana Elisa Paim Dias Rezende: anaelisa0935@gmail.com<br>
 Pedro Paulo Mauro e Silva: p.paulo0512@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇÃO<br>
